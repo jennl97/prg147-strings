@@ -1,0 +1,18 @@
+h1, h3, h4, p{
+    font-family: sans-serif;
+}
+
+header h1, header h4{
+    text-align: center;
+    color:whitesmoke;
+    }
+header{
+    background-color: saddlebrown;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+h3, h4{
+    color: cadetblue;
+}
